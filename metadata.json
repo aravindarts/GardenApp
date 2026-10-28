@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Monolith",
+  "description": "High-conversion minimalist luxury e-commerce storefront with real-time Spring Boot inventory management, optimistic cart updates, and hardware product showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
